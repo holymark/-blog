@@ -25,7 +25,8 @@ export default function Home({ allPostsData }) {
         <p>
           Am into building software. You can find some of my
           <Link href="/projects"> projects </Link> or vist my
-          <a href="https://github.com/holymark">github</a> profile.
+          <a href="https://github.com/holymark"> github</a> profile. Now working
+          on [SD]
         </p>
       </section>
 
